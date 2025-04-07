@@ -1,56 +1,56 @@
-DeepHealth Pneumonia Detection System
+# DeepHealth Pneumonia Detection System
 
 Sistem diagnosis pneumonia berbasis deep learning dan data medis yang dapat memprediksi kondisi pasien dari citra X-ray dada serta data numerik klinis. Dilengkapi dengan fitur laporan otomatis dalam format PDF sebagai dokumentasi hasil pemeriksaan.
 
-Fitur Utama
+---
 
-Prediksi pneumonia dari X-ray dada menggunakan model deep learning terlatih.
+## Fitur Utama
 
-Input data klinis pasien:
+- Prediksi pneumonia dari X-ray dada menggunakan model deep learning terlatih.
+- Input data klinis pasien:
+  - Usia
+  - Suhu tubuh
+  - Saturasi oksigen (SpO2)
+- Kombinasi hasil citra dan data numerik untuk menghasilkan prediksi yang lebih komprehensif.
+- Laporan hasil diagnosis otomatis dalam bentuk PDF.
+- Interface berbasis **Gradio** yang mudah digunakan, bahkan di perangkat mobile.
 
-Usia
+---
 
-Suhu tubuh
+## Cara Menjalankan
 
-Saturasi oksigen (SpO2)
+1. Jalankan semua sel di Google Colab.
+2. Upload gambar X-ray dada pasien (format: `.jpg`, `.png`, atau `.jpeg`).
+3. Masukkan data numerik klinis sesuai form.
+4. Klik tombol **Prediksi** dan sistem akan menampilkan hasil diagnosis.
+5. Laporan PDF akan dibuat dan dapat diunduh langsung sebagai dokumentasi.
 
-Kombinasi hasil citra dan data numerik untuk menghasilkan prediksi yang lebih komprehensif.
+---
 
-Laporan hasil diagnosis otomatis dalam bentuk PDF.
+## Teknologi yang Digunakan
 
-Interface berbasis Gradio yang mudah digunakan, bahkan di perangkat mobile.
+- Python  
+- TensorFlow / Keras  
+- OpenCV  
+- NumPy  
+- Matplotlib  
+- Gradio  
+- ReportLab (untuk PDF)  
+- Google Colab  
 
-Cara Menjalankan
+---
 
-1.Jalankan semua sel di Google Colab.
+## PERINGATAN!!!
 
-2.Upload gambar X-ray dada pasien (format .jpg, .png, atau .jpeg).
+Proyek ini dikembangkan untuk **keperluan edukasi dan riset**.  
+Gunakan dengan bijak dan **tidak untuk diagnosis medis resmi**.
 
-3.Masukkan data numerik klinis.
+---
 
-4.Klik Prediksi dan sistem akan menampilkan hasilnya.
+## Project By:  
+**Havilz**
 
-5.Laporan PDF akan dibuat dan dapat diunduh langsung sebagai dokumentasi hasil diagnosis.
-
-Teknologi yang Digunakan
-Python
-
-TensorFlow / Keras
-
-OpenCV, NumPy, Matplotlib
-
-Gradio
-
-ReportLab (untuk PDF)
-
-Google Colab
-
-PERINGATAN!!! 
-Proyek ini dikembangkan untuk keperluan edukasi dan riset. Gunakan dengan bijak dan tidak untuk diagnosis medis resmi.
-
-project By : Havilz
-
-contact:
-email  : havilzlating31@gmail.com
-phone  : +62-8138-0100-865
-WA     : +62-8138-0100-865
+**Contact:**  
+- Email: havilzlating31@gmail.com  
+- Telepon: +62-8138-0100-865  
+- WhatsApp: +62-8138-0100-865
