@@ -47,3 +47,10 @@ Google Colab
 
 PERINGATAN!!! 
 Proyek ini dikembangkan untuk keperluan edukasi dan riset. Gunakan dengan bijak dan tidak untuk diagnosis medis resmi.
+
+project By : Havilz
+
+contact:
+email  : havilzlating31@gmail.com
+phone  : +62-8138-0100-865
+WA     : +62-8138-0100-865
