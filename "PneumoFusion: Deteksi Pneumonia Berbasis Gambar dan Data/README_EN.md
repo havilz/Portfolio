@@ -33,9 +33,12 @@ A pneumonia diagnosis system based on deep learning and clinical data that predi
 > **WARNING!!!**  
 > This project is developed for educational and research purposes only. Use it responsibly and not for official medical diagnosis.
 
-project By : Havilz
+---
 
-contact:
-email  : havilzlating31@gmail.com
-phone  : +62-8138-0100-865
-WA     : +62-8138-0100-865
+## Project By:  
+**Havilz**
+
+**Contact:**  
+- Email: havilzlating31@gmail.com  
+- Telepon: +62-8138-0100-865  
+- WhatsApp: +62-8138-0100-865
