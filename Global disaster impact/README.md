@@ -1,6 +1,5 @@
 # Disaster Dashboard Asia  
 Dashboard interaktif yang menyajikan visualisasi data bencana di kawasan Asia. Sistem ini menampilkan dampak sosial dan ekonomi dari berbagai jenis bencana berdasarkan negara dan rentang waktu tertentu.  
-
 ---
 
 ## Fitur Utama  
